@@ -14,13 +14,6 @@ contract USDTTestToken is ERC20 {
     } 
 
 
-    function aaaaaaaaaaaaaaaaaaaaaaaaaaa() external returns(uint) {
-        return 69420;
-    }
-
-    function bbbbbbbbbbbbbbbbbbbbbbbbbbb() external returns(uint) {
-        return 42069;
-    }
 
     
 }
